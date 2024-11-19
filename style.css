@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    color: pink;
+    text-decoration: underline;
+}
+
+h2 {
+
+    color: palevioletred;
+
+}
+
+input {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+}
